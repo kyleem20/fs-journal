@@ -1,9 +1,9 @@
  # VS
-# Abbreviation ol>li*X.class-title
-# Lorem# creates an outline to paragraph styling
-# option select: select multiple lines
-# ctrl shift: end of line; selects the text
-# cmd shift down: copies line bellow 
+Abbreviation ol>li*X.class-title
+Lorem# creates an outline to paragraph styling
+option select: select multiple lines
+ctrl shift: end of line; selects the text
+cmd shift down: copies line bellow 
 
 # Git
 git branch name
