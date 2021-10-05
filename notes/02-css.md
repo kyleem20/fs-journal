@@ -22,3 +22,5 @@ Padding: 2em; <-adds padding around children
 
 object-fit: contain; <- forces image to fit correctly to the size you want, crops the photo (only works with a forced height and width)
 
+remove padding on all <p> tags:
+p {margin: 0}
