@@ -1,4 +1,4 @@
- # VS
+# VS
 Abbreviation ol>li*X.class-title
 Lorem# creates an outline to paragraph styling
 option select: select multiple lines
