@@ -44,7 +44,7 @@ cascading style sheet
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-the asterisk need to be _Bold_
+<b></b>
 ```
 
 **8.** In what tag does the majority of your code belong?
