@@ -20,3 +20,23 @@ media queery (make the card not spill on mobile)(min is greater than max is less
 transform: translateY(15px)
 }
 }
+
+Debugging:
+/* This is for wire framing to see our rows/columns */
+body.debug .container,
+body.debug .container-fluid {
+  outline: 2px double blue;
+  outline-offset: -2px;
+}
+
+body.debug .row {
+  outline: 2px dashed red;
+  outline-offset: -2px;
+}
+
+body.debug [class*="col-"] {
+  outline: 2px dotted forestgreen;
+  outline-offset: -3px;
+}
+
+create a nav bar: bs5-nav-a
