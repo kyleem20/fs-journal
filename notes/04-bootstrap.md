@@ -14,7 +14,7 @@ changes the display on mobile to not show a specific item- d-none d-md-flex
 
 card spill- .card-spill{ transform: translateY(15px)}
 
-media queery (make the card not spill on mobile)(min is greater than max is less than)- 
+media query (make the card not spill on mobile)(min is greater than max is less than)- 
 @media only screen and (min-width:768px){
 .card-spill{
 transform: translateY(15px)
@@ -40,3 +40,6 @@ body.debug [class*="col-"] {
 }
 
 create a nav bar: bs5-nav-a
+
+align: up and down
+justify: left and right
