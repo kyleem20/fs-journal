@@ -1,4 +1,9 @@
 # Bootstrap
+class notes:
+https://github.com/BoiseCodeWorks/late-fall21-resume
+https://github.com/BoiseCodeWorks/late-fall21-bootstrap
+https://github.com/BoiseCodeWorks/lateFall-21-Rockify
+
 use: bs5
 
 Do not add margin or padding left and right until inside the "col"

@@ -1,4 +1,8 @@
 # JavaScript
+class notes:
+https://github.com/BoiseCodeWorks/LateFall21-JsDayOne
+https://github.com/BoiseCodeWorks/late-fall21-js-day2
+
 
 file name: app.js
 script src="app.js">/script>
