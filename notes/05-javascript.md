@@ -1,7 +1,7 @@
 # JavaScript
 
 file name: app.js
-<!-- <script src="app.js"></script> -->
+<script src="app.js"></script>
 
 **Primitive Types**
 
