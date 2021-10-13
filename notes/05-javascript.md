@@ -17,6 +17,7 @@ Arrow Function Expression: shorter syntax for writing function expressions. Arro
 
 class notes:
 https://github.com/BoiseCodeWorks/LateFall21-JsDayOne
+
 https://github.com/BoiseCodeWorks/late-fall21-js-day2
 
 
