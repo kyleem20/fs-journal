@@ -1,4 +1,20 @@
 # JavaScript
+reading notes:
+A function is a subprogram designed to perform a particular task.
+Function definitions are hoisted — expressions are not.
+Functions are executed when they are called. This is known as invoking a function.
+Values can be passed into functions and used within the function. The name of the value is called a parameter. The actual value itself is called an argument.
+Functions always return a value. In JavaScript, if no return value is specified, the function will return undefined by default.
+Functions are objects.
+
+
+Parameters are used when defining a function, they are the names created in the function definition. In fact, during a function definition, we can pass in up to 255 parameters! Parameters are separated by commas in the ().
+Arguments, on the other hand, are the values the function receives from each parameter when the function is executed (invoked).
+
+Function Declaration: defines a named function. To create a function declaration you use the function keyword followed by the name of the function. When using function declarations, the function definition is hoisted, thus allowing the function to be used before it is defined
+Function Expression: Function Expressions defines a named or anonymous function. An anonymous function is a function that has no name. Function Expressions are not hoisted, and therefore cannot be used before they are defined
+Arrow Function Expression: shorter syntax for writing function expressions. Arrow functions do not create their own this value.
+
 class notes:
 https://github.com/BoiseCodeWorks/LateFall21-JsDayOne
 https://github.com/BoiseCodeWorks/late-fall21-js-day2
