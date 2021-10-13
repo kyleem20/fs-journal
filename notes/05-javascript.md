@@ -1,4 +1,10 @@
 # JavaScript
+
+class notes:
+https://github.com/BoiseCodeWorks/LateFall21-JsDayOne
+
+https://github.com/BoiseCodeWorks/late-fall21-js-day2
+
 reading notes:
 A function is a subprogram designed to perform a particular task.
 Function definitions are hoisted — expressions are not.
@@ -15,10 +21,6 @@ Function Declaration: defines a named function. To create a function declaration
 Function Expression: Function Expressions defines a named or anonymous function. An anonymous function is a function that has no name. Function Expressions are not hoisted, and therefore cannot be used before they are defined
 Arrow Function Expression: shorter syntax for writing function expressions. Arrow functions do not create their own this value.
 
-class notes:
-https://github.com/BoiseCodeWorks/LateFall21-JsDayOne
-
-https://github.com/BoiseCodeWorks/late-fall21-js-day2
 
 
 file name: app.js
