@@ -47,12 +47,12 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter your answer in the space below -->
 ```
-
+i++
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter your answer in the space below -->
 ```
-
+Document Object Model; the document is first accessed
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
@@ -63,10 +63,10 @@ for ( let i = 0; i < arr.length; _______ ) {
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter your answer in the space below -->
 ```
-
+Parameters are names used to define and create a function Arguments are the values run through a function when it is run
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter your answer in the space below -->
 ```
-
+Primitive: data that are stored on the stack. Reference: objects that are stored in the heap.
 ```
