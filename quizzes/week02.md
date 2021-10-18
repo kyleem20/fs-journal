@@ -52,9 +52,9 @@ for ( let i = 0; i < arr.length; _______ ) {
   //...
 ```
 <!-- enter your answer in the space below -->
-Indicator, i++
-```
 
+```
+Indicator, i++
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter your answer in the space below -->
