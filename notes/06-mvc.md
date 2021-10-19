@@ -1,5 +1,6 @@
 # MVC
 Class Lecture notes:
+Day 1: https://github.com/BoiseCodeWorks/latefall21-mvc-zoo
 
 
 
