@@ -5,6 +5,14 @@ https://github.com/BoiseCodeWorks/LateFall21-JsDayOne
 
 https://github.com/BoiseCodeWorks/late-fall21-js-day2
 
+
+Functions:
+.shift() = removes the first element in an array, moves to the next one
+
+
+
+
+
 reading notes:
 A function is a subprogram designed to perform a particular task.
 Function definitions are hoisted — expressions are not.

@@ -6,6 +6,11 @@ Fireside: https://github.com/JustinCarpenter2020/LateFall21-MVC-MoonMiner
 Day 3: https://github.com/BoiseCodeWorks/late-fall21-gregslistmvc
 Fireside: https://github.com/JonesyJava/Vendrr
 Day 4: https://github.com/BoiseCodeWorks/Latefall21-PapaMicksPizza
+https://github.com/BoiseCodeWorks/late-Fall21-swapi
+https://github.com/JustinCarpenter2020/LateFall21-PokeDex
+https://github.com/BoiseCodeWorks/late-fall21-jeopardy
+
+
 
 Service- makes rules
 Controller- handles user input, draws to the page
