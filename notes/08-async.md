@@ -55,5 +55,3 @@ create main classes of controller and service, link in app state
 service class: pull in api information, run the res
 Controller: async the api to run on console.log
 Controller: draw method; invoke w/ proxystate in class
-
-
