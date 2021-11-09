@@ -1,4 +1,4 @@
-# MVC
+# NODE
 Day 1: https://github.com/BoiseCodeWorks/late-Fall21-Caturday
 Day 1: https://www.figma.com/file/jOWEcK7caWfpZMNxnYoOs8/Untitled?node-id=0%3A1
 Day 2: https://github.com/BoiseCodeWorks/late-fall21-gregslist-api

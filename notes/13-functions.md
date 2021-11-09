@@ -58,3 +58,49 @@ function isMaybeTriangle(a,b,c){
     const large = Math.max(...arguments)
     return large < (a+ b+ c) - large
 }
+
+
+
+
+
+11/9
+All you need to do is figure out which character is most frequent for each position. 
+
+let data = `eedadn
+drvtee
+eandsr
+raavrd
+atevrs
+tsrnev
+sdttsa
+rasrtv
+nssdts
+ntnada
+svetve
+tesnvt
+vntsnd
+vrdear
+dvrsen
+enarar`.split('\n')
+
+//input String[]
+function repeaterCode(arr){
+let out = ''
+for(let col = 0; col < arr[0].length; col++){
+
+  let seen = {}
+  let greatest = ''
+  let greatestCount = 0
+  for(let row =0; row < arr.length; row++ ){
+    const char = arr[row][col]
+    seen[char] = seen[char] || 0
+    seen[char]++
+    if(seen[char]> greatestCount){
+      greatestCount = seen[char]
+      greatest = char
+    }
+  }
+}
+return out
+}
+//output String

@@ -1,6 +1,6 @@
-# MVC
+# VUE
 Day 1: https://github.com/BoiseCodeWorks/late-fall21-slap
-
+Day 2: 
 
 
 (optional) vpm i @vue/next
@@ -15,3 +15,9 @@ in script: need function.value (value is key) where you change the function's va
 in style: .value is implied
 
 props are data passed from parent component to child component
+
+components act as the controller
+.vue is a single file component
+v-if: doesn't put the html on the page
+computed: vue's proxystate.on
+v-for: repeats an element
