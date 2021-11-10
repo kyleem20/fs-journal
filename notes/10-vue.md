@@ -1,6 +1,7 @@
 # VUE
 Day 1: https://github.com/BoiseCodeWorks/late-fall21-slap
-Day 2: 
+Day 2: https://github.com/BoiseCodeWorks/late-fall21-vueflix
+Fireside: https://github.com/JustinCarpenter2020/lateFall21-vuePokedex
 
 
 (optional) vpm i @vue/next
