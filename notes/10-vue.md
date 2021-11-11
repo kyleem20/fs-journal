@@ -22,3 +22,18 @@ components act as the controller
 v-if: doesn't put the html on the page
 computed: vue's proxystate.on
 v-for: repeats an element
+
+
+Start with:
+Initial Front Page Load up (navbar)
+Router - connect to the Page
+Set up API
+Set up server
+    -get/getId/create/edit/delete
+Set up Page with mounted for "on click"
+
+
+
+router links go inside the template, params called in the router file; utility/functionality
+information out of url into script tag: get the route from useRoute; details
+router.push: brings back to the home page
