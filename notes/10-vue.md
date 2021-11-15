@@ -33,7 +33,13 @@ Set up server
 Set up Page with mounted for "on click"
 
 
+useRouter: where you are going
+useRoute: where we are
+
 
 router links go inside the template, params called in the router file; utility/functionality
 information out of url into script tag: get the route from useRoute; details
 router.push: brings back to the home page
+
+.push: adds to end of array
+.unshift: adds to the beginning of array
