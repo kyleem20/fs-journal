@@ -43,3 +43,12 @@ router.push: brings back to the home page
 
 .push: adds to end of array
 .unshift: adds to the beginning of array
+
+findoneUpdate
+
+
+
+When to use:
+onMounted- when page loads,
+watchEffect-
+computed-
