@@ -3,7 +3,7 @@
 **1.** What is Inheritance?
 <!-- enter you answer in the space below -->
 ```
-
+Item is passed from previous/parent location
 ```
 **2.** What is the `Singleton` design pattern?
 <!-- enter you answer in the space below -->
