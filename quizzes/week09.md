@@ -43,10 +43,10 @@ a tool in Agile software development used to capture a description of a software
 **9.** During which ceremony is your Sprint Backlog created?
 <!-- enter you answer in the space below -->
 ```
-Initial, stand ups, project delivery 
+Initial, stand ups, project delivery, daily scrum
 ```
 **10.** In which of these ceremonies are Tasks assigned to you?
 <!-- enter you answer in the space below -->
 ```
-Stand up
+Stand up, daily scrum
 ```
