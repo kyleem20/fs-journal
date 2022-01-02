@@ -1,5 +1,9 @@
 # CSHARP
 
+ 
+
+
+
 instantiate variables in c#: string str = Start()
 public ... int, double, float, decimal, string
 Lists - used in place of an array
@@ -26,6 +30,14 @@ Table: Create Table, (table : collection);
 
 
 
+launch.json: "ASPNETCORE_URLS": "https://localhost:5001"
+change .env baseURL
+
+IEnumerable: and type of collection
+
+204: succeeded but got nothing back, no context
+
+___ViewModel: created for the many to many relationships
 ----
 Warm Up:
 Console.Clear();
@@ -50,3 +62,14 @@ if(users.ContainsKey(username) && users[username].isValidPassword(pass)){
 }else {
   System.Console.WriteLine("fail!");
 }
+
+
+-------
+Build a console app where you roll dice. Roll two dice, three times. If any of the sets are equal (6 and 6 or 1 and 1, etc) your score is 0. Otherwise print the dice rolls and the sum of the dice.
+
+Dice:
+
+Program:
+
+
+
