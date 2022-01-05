@@ -1,5 +1,7 @@
 # CSHARP
+On Final: create profile model of 3 items
 
+async Task<>
  
 
 
